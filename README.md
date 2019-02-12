@@ -1,2 +1,6 @@
 # Skin-disease
-team-hacktive
+TEAM-HACKTIVE.
+
+Scraped 22 Classes of Skin Diseases from Dermnet website.
+
+
